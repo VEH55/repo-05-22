@@ -3,54 +3,56 @@
 https://br.embedflix.net/p2p/globosp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIyIDg6MDY6MjAgUE0maGFzaF92YWx1ZT05aEFwa0pISGl5aEgramVEVlBZWHZ3PT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:0 type="stream" channelId="-1", TV Globo MG
 http://168.205.87.198:8555/live/1368/123456/70.ts
-#EXTINF:0 type="stream" channelId="-1", TV Globo MG 2
-https://server100.online/globo-sp/video.m3u8?token=d265ef57212f78d2a098f346ed9f391588bd8788-b0c35d68843f37dd839b7c67f41e01b8-1664834142-1664826942&remote=138.185.96.45
 #EXTINF:0 type="stream" channelId="2438" logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png", REDE BRASIL
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist_.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record MT 2
 https://m3u9.ml/a2/hls1/record.m3u8?mu3zAQc9HC3GbwJq=o7KUiZMcNi5gG0VqdBRQEA&3U1G7qaTxrPbalZnEx=1665224587
 #EXTINF:0 type="stream" channelId="-1", Record RN
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
-#EXTINF:0 type="stream" channelId="-1", Record SC
-https://caikron.com.br:19360/floripa/floripa.m3u8
-#EXTINF:0 type="stream" channelId="-1", Record SC 2
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:0 type="stream" channelId="-1", Redetv (PA)
-https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1", Redetv (RS)
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w18155526.m3u8
 #EXTINF:0 type="stream" channelId="-1", Redetv (SP)
 http://168.205.87.198:8555/live/antony/1234/102.m3u8
+#EXTINF:0 type="stream" channelId="-1", Redetv SP (2)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Redetv (PI)
 https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1610904242.m3u8
 #EXTINF:0 type="stream" channelId="-1", Redetv (TO)
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
+#EXTINF:0 type="stream" channelId="-1", Redetv 
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1486292960_b1125954.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sbt PI
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w914842736.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sbt PE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV
-#EXTINF:0 type="stream" channelId="-1", Sbt
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sbt SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Band
 http://168.205.87.198:8555/live/antony/1234/19.m3u8
 #EXTINF:0 type="stream" channelId="-1", Band PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2009673231.m3u8
+#EXTINF:0 type="stream" channelId="-1", Band PA (2)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w450222221.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Vida (2)
 http://168.205.87.198:8555/live/antony/1234/103.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cancao Nova
 http://168.205.87.198:8555/live/antony/1234/25.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cancao Nova (2)
 http://168.205.87.198:8555/live/1368/123456/25.ts
 #EXTINF:0 type="stream" channelId="-1", Sec 21
 http://168.205.87.198:8555/live/1368/123456/106.ts
+#EXTINF:0 type="stream" channelId="-1", Sec 21 (2)
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b978000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record News (2)
+https://caikron.com.br:19360/floripa/floripa.m3u8
 #EXTINF:0 type="stream" channelId="-1", Band News
 http://cdn.connectbr.com.br/BandNews/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Manchete
@@ -59,8 +61,6 @@ https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w55
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w88961879.m3u8
 #EXTINF:0 type="stream" channelId="-1", Web Tv Classicos
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8
-#EXTINF:0 type="stream" channelId="-1", Cine Life Classics(filmes classicos/series/variedades)
-https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Bons Tempos (series/ filmes)
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Channel Network (series/desenhos/classicos)
@@ -89,8 +89,6 @@ https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w554878438.m3u8
 https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w2114962954.m3u8
 #EXTINF:0 type="stream" channelId="-1", Canal 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w2125553746.m3u8
-#EXTINF:0 type="stream" channelId="-1", ISTV (filmes/variedades/series)
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Classique tv Western (Faroeste)
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 #EXTINF:0 type="stream" channelId="-1", tv Japi (Variedades e Filmes Antigos)
@@ -123,6 +121,12 @@ https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1529584050.m3u8
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", GLN TV(variedades/ filmes classicos)
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
+#EXTINF:0 type="stream" channelId="-1", HITS TV (variedades/ filmes/ classicos)
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
+#EXTINF:0 type="stream" channelId="-1", CARAVELAS TV(variedades/ filmes/ classicos)
+https://stmv1.srvif.com/adeildsontv/adeildsontv/chunklist_w1022983116.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tv serie O Homem de 6 Milhoes de Dolares
+https://stmv1.srvif.com/classeries/classeries/chunklist_w580022377.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv serie Os Tres Patetas
 https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w414854403.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV serie Jornada nas Estrelas
