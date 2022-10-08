@@ -9,10 +9,14 @@ https://server100.online/globo-sp/video.m3u8?token=d265ef57212f78d2a098f346ed9f3
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist_.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record MT 2
+https://m3u9.ml/a2/hls1/record.m3u8?mu3zAQc9HC3GbwJq=o7KUiZMcNi5gG0VqdBRQEA&3U1G7qaTxrPbalZnEx=1665224587
 #EXTINF:0 type="stream" channelId="-1", Record RN
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
 #EXTINF:0 type="stream" channelId="-1", Record SC
 https://caikron.com.br:19360/floripa/floripa.m3u8
+#EXTINF:0 type="stream" channelId="-1", Record SC 2
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:0 type="stream" channelId="-1", Redetv (PA)
 https://livefocamundo.com:8081/redetvbelem/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", Redetv (RS)
